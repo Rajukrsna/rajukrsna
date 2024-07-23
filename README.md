@@ -59,6 +59,11 @@ AI & Data Science: Exploring machine learning and data science
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rajukrsna&color=blue)
 
+## 🏆 Achievements & Certifications
+  - [DA101/DA501P- Data Analyst Associate](https://ibb.co/qYmrVQJ) - Issued by DataCamp, July 2024
+  - [AI900- Azure AI Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/PravinRaju-6424/C265160BDF60FD96?sharingId=FEC9EF4C37AD64B6) - Issued by Microsoft, May 2024
+
+
 ## ☕ Support Me
 If you like my work, consider buying me a coffee!
 [![Buy Me a Coffee](https://img.shields.io/badge/-Buy_Me_a_Coffee-333333?style=flat&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/your-profile)
