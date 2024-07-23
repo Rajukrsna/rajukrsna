@@ -56,3 +56,9 @@ AI & Data Science: Exploring machine learning and data science
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajukrsna&layout=compact&theme=dark)
 
 ![Pravin Raju T M Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rajukrsna&theme=dark)
+
+![Profile Views](https://komarev.com/ghpvc/?username=rajukrsna&color=blue)
+
+## ☕ Support Me
+If you like my work, consider buying me a coffee!
+[![Buy Me a Coffee](https://img.shields.io/badge/-Buy_Me_a_Coffee-333333?style=flat&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/your-profile)
