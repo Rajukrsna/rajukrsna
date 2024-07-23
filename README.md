@@ -47,11 +47,12 @@ AI & Data Science: Exploring machine learning and data science
 ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
 ![Data Analysis](https://img.shields.io/badge/-Data_Analysis-333333?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABH0lEQVRYR+2WSw7DIAxFv9BJbAzAK1BCiYicgEZBFEA3KAD3qg9Ig8IJBfAy7keA5g8mZY7tYfoRZ2Z2uZkxK+Xg6ZWm2IQBo0IA8KkGnQwnYA8CkCHYAhqofTbDlCvkMViD5MgUqJKqi3gD0D2x4Aw4x/ABCKxZx7DVyxg4q5mAeX4Uge9IMmDkqHHzccgo4drBvXarUTQ6mG9LCng5SOEX/p8FW5fpXi/7roFzzeoCH5rwA0YNHXC0C9CfxtGUQ9n7Gv9Adl6zGZwBwT0wAAAABJRU5ErkJggg==)
 ![R](https://img.shields.io/badge/-R-333333?style=flat&logo=r)
+![Power BI](https://img.shields.io/badge/-Power_BI-333333?style=flat&logo=powerbi)
 
 
 ## 📊 GitHub Stats:
-![Kasi nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kasi-sj&show_icons=true&theme=dark)
+![Pravin Raju T M GitHub stats](https://github-readme-stats.vercel.app/api?username=rajukrsna&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kasi-sj&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajukrsna&layout=compact&theme=dark)
 
-![Kasi nathan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kasi-sj&theme=dark)
+![Pravin Raju T M Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rajukrsna&theme=dark)
