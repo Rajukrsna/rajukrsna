@@ -1,76 +1,97 @@
-# Hi Fellow Dev's 👋 My name is Pravin Raju T M
+# 👋 Hello, World! I'm Pravin Raju T M
 
-🔧 Technical Skills:
+🚀 Passionate developer building innovative solutions using modern web technologies and AI.  
+I specialize in full-stack development and cloud engineering, and I love working on products that **solve real-world problems** and push the boundaries of technology.
 
-Web Development: Proficient in Node.js, Express, and MongoDB
-AI & Data Science: Exploring machine learning and data science
+---
 
-🌱 I'm currently learning DSA
+## 🔧 Technical Skills
 
-📫 How to reach me: [tmpravinraju@gmail.com](mailto:tmpravinraju@gmail.com)
+- 💻 **Proficient in**: MERN Stack (MongoDB, Express.js, React.js, Node.js), TypeScript, Next.js  
+- ☁️ **Cloud Platforms**: Microsoft Azure, AWS, GCP
+- 🤖 **Exploring**: Large Language Models (LLMs), Agentic AI, Process Automation
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/pravin-raju-t-m-164648252)
+I'm always up for **collaborating on exciting projects** that have the potential to revolutionize the world.
 
-## 💻 Tech Stack:
+📫 **Reach me at**: [tmpravinraju@gmail.com](mailto:tmpravinraju@gmail.com)
+
+---
+
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pravin-raju-t-m-164648252)
+
+---
+
+## 💻 Tech Stack
+
+**Languages & Frontend**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-333333?style=flat&logo=tailwindcss)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=nextdotjs)
+![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
+![React Query](https://img.shields.io/badge/-React_Query-333333?style=flat&logo=reactquery)
+![jQuery](https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jquery)
+
+**Backend & DevOps**
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=nodedotjs)
+![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![Socket.io](https://img.shields.io/badge/-Socket.io-333333?style=flat&logo=socketdotio)
+![NPM](https://img.shields.io/badge/-NPM-333333?style=flat&logo=npm)
+![Nodemon](https://img.shields.io/badge/-Nodemon-333333?style=flat&logo=nodemon)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+![Babel](https://img.shields.io/badge/-Babel-333333?style=flat&logo=babel)
+![ESLint](https://img.shields.io/badge/-ESLint-333333?style=flat&logo=eslint)
+
+**Hosting & Deployment**
 ![GitHub Pages](https://img.shields.io/badge/-GitHub_Pages-333333?style=flat&logo=githubpages)
 ![Render](https://img.shields.io/badge/-Render-333333?style=flat&logo=render)
 ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
-![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
-![Expo](https://img.shields.io/badge/-Expo-333333?style=flat&logo=expo)
-![jQuery](https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jquery)
-![NPM](https://img.shields.io/badge/-NPM-333333?style=flat&logo=npm)
-![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=nextdotjs)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=nodedotjs)
-![Nodemon](https://img.shields.io/badge/-Nodemon-333333?style=flat&logo=nodemon)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![React Native](https://img.shields.io/badge/-React_Native-333333?style=flat&logo=react)
-![React Query](https://img.shields.io/badge/-React_Query-333333?style=flat&logo=reactquery)
-![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
-![Socket.io](https://img.shields.io/badge/-Socket.io-333333?style=flat&logo=socketdotio)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-333333?style=flat&logo=tailwindcss)
-![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![Babel](https://img.shields.io/badge/-Babel-333333?style=flat&logo=babel)
-![ESLint](https://img.shields.io/badge/-ESLint-333333?style=flat&logo=eslint)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)
-![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
-![Data Analysis](https://img.shields.io/badge/-Data_Analysis-333333?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABH0lEQVRYR+2WSw7DIAxFv9BJbAzAK1BCiYicgEZBFEA3KAD3qg9Ig8IJBfAy7keA5g8mZY7tYfoRZ2Z2uZkxK+Xg6ZWm2IQBo0IA8KkGnQwnYA8CkCHYAhqofTbDlCvkMViD5MgUqJKqi3gD0D2x4Aw4x/ABCKxZx7DVyxg4q5mAeX4Uge9IMmDkqHHzccgo4drBvXarUTQ6mG9LCng5SOEX/p8FW5fpXi/7roFzzeoCH5rwA0YNHXC0C9CfxtGUQ9n7Gv9Adl6zGZwBwT0wAAAABJRU5ErkJggg==)
-![R](https://img.shields.io/badge/-R-333333?style=flat&logo=r)
-![Power BI](https://img.shields.io/badge/-Power_BI-333333?style=flat&logo=powerbi)
 
+---
 
-## 📊 GitHub Stats:
-![Pravin Raju T M GitHub stats](https://github-readme-stats.vercel.app/api?username=rajukrsna&show_icons=true&theme=dark)
+## 📈 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajukrsna&layout=compact&theme=dark)
+![Pravin Raju T M GitHub stats](https://github-readme-stats.vercel.app/api?username=rajukrsna&show_icons=true&theme=dark&count_private=true)
 
-![Pravin Raju T M Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rajukrsna&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajukrsna&layout=compact&theme=dark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajukrsna&theme=dark)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rajukrsna&color=blue)
 
-## 🏆 Achievements & Certifications
-  - [DA101/DA501P- Data Analyst Associate](https://ibb.co/qYmrVQJ) - Issued by DataCamp, July 2024
-  - [AI900- Azure AI Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/PravinRaju-6424/C265160BDF60FD96?sharingId=FEC9EF4C37AD64B6) - Issued by Microsoft, May 2024
+---
 
-## 📚My sample Content Writing work: GeeksForGeeks Publications
-- [Employee Attrition Prediction in R](https://www.geeksforgeeks.org/employee-attrition-prediction-in-r/) 📊
-- [Toggle Bulb Switcher](https://www.geeksforgeeks.org/toggle-bulb-switcher/) 💡
-- [Mixed Models with R](https://www.geeksforgeeks.org/mixed-models-with-r/) 📈
-- [How to Use TTL Collections in MongoDB](https://www.geeksforgeeks.org/how-to-use-ttl-collections-in-mongodb/) 🕒
-- [Microsoft Azure Cognitive Services](https://www.geeksforgeeks.org/microsoft-azure-cognitive-services/) ☁️
-- [Mongoose Schema Hasn't Been Registered for Model User](https://www.geeksforgeeks.org/mongoose-schema-hasnt-been-registered-for-model-user/) 🗃️
+## 🏆 Achievements & Certifications
+
+- 📊 **[Data Analyst Associate (DA101/DA501P)](https://ibb.co/qYmrVQJ)** – DataCamp, July 2024  
+- 🤖 **[AI-900: Azure AI Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/PravinRaju-6424/C265160BDF60FD96?sharingId=FEC9EF4C37AD64B6)** – Microsoft, May 2024
+
+---
+
+## 📝 Content Writing | GeeksForGeeks Publications
+
+Here are a few of my articles published on [GeeksForGeeks](https://www.geeksforgeeks.org/author/rajukrsna/):
+
+- 📊 [Employee Attrition Prediction in R](https://www.geeksforgeeks.org/employee-attrition-prediction-in-r/)
+- 💡 [Toggle Bulb Switcher](https://www.geeksforgeeks.org/toggle-bulb-switcher/)
+- 📈 [Mixed Models with R](https://www.geeksforgeeks.org/mixed-models-with-r/)
+- 🕒 [How to Use TTL Collections in MongoDB](https://www.geeksforgeeks.org/how-to-use-ttl-collections-in-mongodb/)
+- ☁️ [Microsoft Azure Cognitive Services](https://www.geeksforgeeks.org/microsoft-azure-cognitive-services/)
+- 🗃️ [Mongoose Schema Hasn't Been Registered for Model User](https://www.geeksforgeeks.org/mongoose-schema-hasnt-been-registered-for-model-user/)
+
+---
 
 ## ☕ Support Me
-If you like my work, consider buying me a coffee!
+
+If you like my work and want to support me:
+
 [![Buy Me a Coffee](https://img.shields.io/badge/-Buy_Me_a_Coffee-333333?style=flat&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/your-profile)
+
+---
