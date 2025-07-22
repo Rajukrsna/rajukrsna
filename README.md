@@ -5,7 +5,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Enterprise+Full-Stack+Developer;Cloud+Infrastructure+Specialist;AI%2FML+Solutions+Architect;Scalable+System+Designer;DevOps+%26+Automation+Expert" alt="Typing SVG" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)]([your-portfolio-link](https://pravin-raju.vercel.app))
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pravin-raju.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pravin-raju-t-m-164648252)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tmpravinraju@gmail.com)
 
@@ -129,8 +129,8 @@ const pravinProfile = {
 - **Frontend Developer** opportunities
 - **Backend Developer** positions
 
-[![Schedule Meeting](https://img.shields.io/badge/Schedule_Meeting-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white)]([your-calendly-link](https://calendly.com/tmpravinraju/30min))
-[![Download Resume](https://img.shields.io/badge/Download_Resume-FF0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](![your-resume-link](https://i.ibb.co/9Hz60x3S/pravinrajuresume.jpg))
+[![Schedule Meeting](https://img.shields.io/badge/Schedule_Meeting-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white)](https://calendly.com/tmpravinraju/30min)
+[![Download Resume](https://img.shields.io/badge/Download_Resume-FF0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://i.ibb.co/9Hz60x3S/pravinrajuresume.jpg)
 
 ---
 
